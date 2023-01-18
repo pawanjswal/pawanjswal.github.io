@@ -1,8 +1,0 @@
-version: "3.7"
-services:
-  cve:
-    build: .
-    image: pawanjswal/cve-2021-24762
-    container_name: cve-2021-24762
-    ports:
-      - 127.20.2.1:24762:80

@@ -13,9 +13,8 @@
     </style>
 </head>
 <body>
-
+<img src="cve-2020-10220/assets/logo.png" class="img-fluid" alt="OpenExploit">
 <div class="container mt-5">
-    <img src="cve-2020-10220/assets/logo.png" class="img-fluid" alt="OpenExploit">
     <table id="myTable" class="table table-bordered table-striped">
         <thead class="thead-light">
             <tr>
@@ -36,7 +35,10 @@
 <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
 <script>
     $(document).ready(function() {
-        $('#myTable').DataTable(); // Initialize DataTable
+        $('#myTable').DataTable({
+          pageLength: 5,
+          
+        });
     });
 </script>
 

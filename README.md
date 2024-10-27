@@ -5,6 +5,13 @@
     <title>OpenExploit</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css">
+    <style>
+    /* Set the width of the first column */
+    #myTable th:first-child, 
+    #myTable td:first-child {
+        width: 200px; /* Adjust the width as needed */
+    }
+</style>
 </head>
 <body>
 
@@ -13,7 +20,7 @@
     <table id="myTable" class="table table-bordered table-striped">
         <thead class="thead-light">
             <tr>
-                <th>CVE</th>
+                <th widht=>CVE</th>
                 <th>Description</th>
             </tr>
         </thead>

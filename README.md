@@ -1,5 +1,4 @@
-# OpenExploit
-
+![OpenExploit](https://raw.githubusercontent.com/pawanjswal/pawanjswal.github.io/refs/heads/master/assets/logo.png)
 **OpenExploit** is an open-source toolkit designed for security professionals and researchers to identify, exploit, and test vulnerabilities in various systems and networks. With a focus on modularity, scalability, and ease of use, OpenExploit aims to streamline the process of finding weaknesses in software environments.
 
 ## Follow Me
@@ -14,15 +13,6 @@ Stay updated with the latest developments and features of OpenExploit. Follow me
 - [![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/pawanjswal) - Access official OpenExploit containers and images.
 
 Feel free to reach out with questions, feedback, or ideas for new features!
-
-## Support
-
-If you find OpenExploit helpful and would like to support the project, consider buying me a coffee or making a donation. Your support helps me keep the project active and regularly updated!
-
-- [![PayPal](https://img.shields.io/badge/PayPal-00308F?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/pawanjswal) - Make a one-time donation via PayPal.
-- [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FBAD39?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/pawanjswal) - Support with a coffee!
-
-Thank you for your support!
 
 ## Disclaimer
 

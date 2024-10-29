@@ -1,4 +1,4 @@
-![OpenExploit](https://raw.githubusercontent.com/pawanjswal/pawanjswal.github.io/master/assets/logo.png)
+![OpenExploit](https://raw.githubusercontent.com/pawanjswal/pawanjswal.github.io/refs/heads/master/assets/logo.png)
 
 # About The Project
 **OpenExploit** is an educational platform designed for security enthusiasts to explore, learn, and share knowledge about Common Vulnerabilities and Exposures (CVEs). It aims to demystify how CVEs function, what constitutes a vulnerability, and the best practices for ethical hacking. By providing resources, tutorials, and a community-driven approach, OpenExploit encourages hands-on learning through practical experience, including tools and techniques for vulnerability assessment and penetration testing. It's a space for collaboration, exploration, and advancement in the field of cybersecurity.

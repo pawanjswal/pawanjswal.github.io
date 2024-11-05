@@ -23,7 +23,7 @@
             </tr>
         </thead>
         <tbody>
-        
+        ${TABLE_DATA}
         </tbody>
     </table>
 </div>
@@ -34,8 +34,8 @@
 <!-- DataTables JS -->
 <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
 <script>
-    $(document).ready(function() {
-        $('#myTable').DataTable({
+    \$(document).ready(function() {
+        \$('#myTable').DataTable({
           pageLength: 5,
           lengthChange: false,
         });

@@ -13,8 +13,8 @@
     </style>
 </head>
 <body>
-<img src="https://raw.githubusercontent.com/pawanjswal/pawanjswal.github.io/refs/heads/master/assets/logo.png" class="img-fluid" alt="OpenExploit">
-<div class="container mt-5">
+<img src="https://raw.githubusercontent.com/pawanjswal/pawanjswal.github.io/master/assets/logo.png" class="img-fluid" alt="OpenExploit">
+<div class="container-fluid mt-5">
     <table id="myTable" class="table table-bordered table-striped">
         <thead class="thead-light">
             <tr>
@@ -23,19 +23,17 @@
             </tr>
         </thead>
         <tbody>
-        ${TABLE_DATA}
+        ${BLOG_TABLE_DATA}
         </tbody>
     </table>
 </div>
 
-<!-- jQuery and Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-<!-- DataTables JS -->
 <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
 <script>
-    \$(document).ready(function() {
-        \$('#myTable').DataTable({
+    $(document).ready(function() {
+        $('#myTable').DataTable({
           pageLength: 5,
           lengthChange: false,
         });

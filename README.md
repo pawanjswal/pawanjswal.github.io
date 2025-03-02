@@ -1,4 +1,5 @@
 ![OpenExploit](https://raw.githubusercontent.com/pawanjswal/pawanjswal.github.io/master/assets/logo.jpg)
+
 **OpenExploit** is a learning platform dedicated to exploring and understanding vulnerabilities in open-source and widely used applications. We focus on manual exploitation techniques, enabling security enthusiasts to learn and build their skills without over-reliance on automation scripts.
 
 ## 🚀 Features

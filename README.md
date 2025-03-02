@@ -1,4 +1,4 @@
-![OpenExploit](https://raw.githubusercontent.com/pawanjswal/pawanjswal.github.io/refs/heads/master/assets/Blog_Logo.jpg)
+![OpenExploit](https://raw.githubusercontent.com/pawanjswal/pawanjswal.github.io/refs/heads/master/assets/logo.png)
 
 # OpenExploit
 
